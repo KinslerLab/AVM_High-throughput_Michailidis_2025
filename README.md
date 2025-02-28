@@ -13,5 +13,5 @@ Dictionary:
 
 1. 'B1' = HUVEC/TERT2 KRAS G12V
 2. 'WT' = HUVEC/TERT2 KRAS WT
-3. 'B1score' = Percent of control values (POC) calculated for compound in KRAS G12V cells
-4. 'WTscore' = Percent of control values (POC) calculated for compound in KRAS WT cells
+3. 'B1score' = Percent of control values (POC) calculated for compound in HUVEC/TERT2 KRAS G12V cells
+4. 'WTscore' = Percent of control values (POC) calculated for compound in HUVEC/TERT2 KRAS WT cells
