@@ -4,7 +4,7 @@ Data and code for: High-throughput drug screening in a cellular model of KRAS-dr
 
 This repository contains the code used for the analysis in the manuscript cited above. Each subdirectory contains the scripts and some of the associated files (as referred to in the scripts) that were used for the analysis.
 
-Raw files uploaded: 
+Raw input files uploaded: 
 
 1. input data for Figure2A: 'B1WT2uM_combine_topTable_ValidCellCount_POC.csv'
 2. input data for Figure2B: 'B1WT200nM_combine_topTable_ValidCellCount_POC.csv'
