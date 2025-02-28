@@ -6,8 +6,8 @@ This repository contains the code used for the analysis in the manuscript cited 
 
 Raw files uploaded: 
 
-1. B1WT2uM_combine_topTable_ValidCellCount_POC - input data for Figure2A
-2. B1WT200nM_combine_topTable_ValidCellCount_POC - input data for Figure2B
+1. input data for Figure2A: 'B1WT2uM_combine_topTable_ValidCellCount_POC.csv'
+2. input data for Figure2B: 'B1WT200nM_combine_topTable_ValidCellCount_POC.csv'
 
 Dictionary:
 
